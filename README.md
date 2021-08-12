@@ -13,52 +13,12 @@
 
 - :penguin: Linux
 - :computer: Programming
-- :zap: Electronics (Logic circuits, Arduino, Raspberry Pi, etc)
-- :headphones: Music
+- :zap: Electronics (logic circuits, Arduino, Raspberry Pi, etc)
+- :headphones: Music (anything goes)
 
-### Programming languages I've used
+### Programming languages
 
-#### General purpose
-
-- Python
-- C/C++
-- Java
-- JavaScript
-- Lua
-- Ruby
-- Dart
-- ARM assembly
-- Visual Basic for Applications (VBA)
-
-#### Scripting
-
-- Bash/Zsh
-- Batch
-- sed
-- Vim script
-
-#### Math
-
-- MATLAB
-- Octave
-- FreeMat
-- Maple
-- Julia
-- R
-
-#### Markup/Styling
-
-- TeX/LaTeX
-- HTML
-- CSS
-
-#### Formal language
-
-- RegEx
-
-#### Esoteric
-
-- Brainfuck
+[List of programming languages I've used](LANGUAGES.md)
 
 <!--
 **JLague/JLague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
