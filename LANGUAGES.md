@@ -12,6 +12,7 @@
 - ARM assembly
 - Visual Basic for Applications (VBA)
 - Scratch
+- HCL
 
 #### Scripting
 
