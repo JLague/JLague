@@ -1,8 +1,8 @@
 ## About me
 
 - :mortar_board: Diploma of College Studies (DSC) in Computer science and mathematics from Cégep Limoilou
-- :mortar_board: First-year computer engineering student at Université Laval
-- :office: Currently working for Calcul Québec/Compute Canada
+- :mortar_board: Second-year computer engineering student at Université Laval
+- :office: Worked for Calcul Québec/Compute Canada
 
 ### Projects that I've contributed to
 
