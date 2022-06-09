@@ -6,6 +6,7 @@
 - C/C++
 - Java
 - JavaScript
+- TypeScript
 - Lua
 - Ruby
 - Dart
