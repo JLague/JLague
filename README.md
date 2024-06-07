@@ -1,13 +1,13 @@
 ## About me
 
 - :mortar_board: Diploma of College Studies (DSC) in Computer science and mathematics from Cégep Limoilou
-- :mortar_board: Second-year computer engineering student at Université Laval
+- :mortar_board: Computer engineering student at Université Laval
 - :office: Worked for Calcul Québec/Compute Canada
 - :office: Worked as a research intern in computer vision and artificial intelligence @ [CVSL](http://vision.gel.ulaval.ca/en/index.php)
 
 ### Projects that I've contributed to
 
-- [credigit](https://github.com/JLague/credigit) - A point of sale system using AES and fingerprint matching
+- [credigit](https://github.com/JLague/credigit) - A point of sale system using AES and fingerprint matching.
 - [mii](https://github.com/codeandkey/mii) - A smart search engine for module environments.
 
 ### Interests
