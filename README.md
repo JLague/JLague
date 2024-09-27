@@ -1,9 +1,11 @@
 ## About me
 
+- :mortar_board: Bachelor of computer engineering from Université Laval
 - :mortar_board: Diploma of College Studies (DSC) in Computer science and mathematics from Cégep Limoilou
-- :mortar_board: Computer engineering student at Université Laval
-- :office: Worked for Calcul Québec/Compute Canada
+- :office: Working as a software developer @ Genetec
 - :office: Worked as a research intern in computer vision and artificial intelligence @ [CVSL](http://vision.gel.ulaval.ca/en/index.php)
+- :office: Worked for Calcul Québec/Compute Canada
+
 
 ### Projects that I've contributed to
 
